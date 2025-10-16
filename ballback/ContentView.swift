@@ -18,7 +18,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, you evil, cruel world!")
             Text("pizza boobs")
-            Text("butt fart")
+            Text("butt boob fart")
         }
         .padding()
     }
